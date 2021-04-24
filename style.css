@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: "Nunito Sans", cursive;
+}
+
+body {
+    background-image: url(/assets/freedom.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-height: 100vh;
+    max-width: 100vw;
+}
+
+.text {
+    text-align: center;
+    margin-top: 10rem;
+}
+
+h1 {
+    font-weight: 100;
+    font-size: 3rem;
+    margin: 0 5%;
+}
+
+p {
+    font-style: italic;
+    font-size: 1.5rem;
+    margin-top: 4rem;
+}
+
+.header {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+}
+
+img {
+    width: 2rem;
+    height: 2rem;
+    margin: .4rem;
+    border-radius: 50%;
+    box-shadow: 0 0 1rem black;
+}
