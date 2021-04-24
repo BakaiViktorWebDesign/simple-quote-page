@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url(/assets/freedom.jpg);
+    background-image: url(assets/freedom.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
